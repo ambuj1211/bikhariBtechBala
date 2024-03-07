@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+    .box{
+        display: block;
+        height: 100px;
+        padding: 15px;
+    }
+    .column1,.column2{
+        margin: 2px 5px;
+        padding: 5px;
+        width: 98%;
+        height: 200px;
+    }
+    .column2 img{
+        padding: 20px 55px;
+    }
+    .typewriter h1{
+        font-size: 18px;
+    }
+  }

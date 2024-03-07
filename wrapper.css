@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    text-align: center;
+    color:transparent;
+    -webkit-background-clip: text;
+    animation: headcolor 6s infinite;
+}
+@keyframes headcolor {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    75% {background-color: green;}
+    100% {background-color: black;}
+}
